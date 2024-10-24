@@ -1,0 +1,10 @@
+^C:\USERS\LENOVO\DESKTOP\API_CACHE\BUILD\CMAKEFILES\6A3711C403D5754507B9CFDB6AAAE595\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/LENOVO/Desktop/API_CACHE -BC:/Users/LENOVO/Desktop/API_CACHE/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/LENOVO/Desktop/API_CACHE/build/cache_api.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

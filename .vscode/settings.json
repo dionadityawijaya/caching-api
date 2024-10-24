@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "*.mustache": "html",
+    "utility": "cpp",
+    "xutility": "cpp"
+  }
+}

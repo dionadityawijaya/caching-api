@@ -1,0 +1,3 @@
+C:/Users/LENOVO/Desktop/API_CACHE/build/CMakeFiles/run.dir
+C:/Users/LENOVO/Desktop/API_CACHE/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/LENOVO/Desktop/API_CACHE/build/CMakeFiles/ZERO_CHECK.dir
